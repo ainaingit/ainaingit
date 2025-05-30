@@ -10,7 +10,7 @@ Graduated with a **Bachelor’s Degree in Computer Science** from [IT University
 ## Technical Proficiency
 
 ### Languages & Programming
-- **C, C++** – Low-level programming and algorithm design  
+- **C, C++** – midlle level  programming and algorithm design  
 - **Java, Python, TypeScript, JavaScript** – Backend logic, full-stack systems, and scripting  
 - **SQL, PostgreSQL, Oracle PL/SQL** – Data modeling, optimization, and complex queries
 
