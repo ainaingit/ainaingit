@@ -29,7 +29,7 @@ Graduated with a **Bachelor’s Degree in Computer Science** from [IT University
 
 ### Tools & Platforms
 - **Git, GitHub, GitLab** – Version control and team collaboration  
-- **Notion, Trello** – Agile project management  
+- **Notion, Trello , Asana** – Agile project management  
 - **Adobe After Effects, Adobe Suite** – UI/UX motion prototyping and media content
 
 
