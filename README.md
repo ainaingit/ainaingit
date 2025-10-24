@@ -3,7 +3,7 @@
 ### Proactive, detail-driven  Software Developer | Mobile & Web Engineering | Problem Solver
 
 Passionate about building reliable, scalable, and secure applications with clean code and modern software principles.  
-Graduated with a **Bachelor’s Degree in Computer Science** from [IT University Madagascar](https://ituniversity-mg.com), class of 2024.
+Graduated with a **Bachelor’s Degree in Computer Science** from [IT University Madagascar](https://ituniversity-mg.com) .
 
 
 
