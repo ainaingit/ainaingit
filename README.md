@@ -16,7 +16,7 @@ Graduated with a **Bachelor’s Degree in Computer Science** from [IT University
 
 ### Frameworks & Libraries
 - **Spring Boot** – REST APIs, security, and enterprise application development  
-- **Django & Django REST Framework** – Rapid backend development  
+- **FastAPI & Django REST Framework** – Rapid backend development  
 - **React & React Native (Expo)** – Cross-platform mobile and SPA development  
 - **Node.js** – Real-time systems, server-side JavaScript  
 - **Vite, Next.js** – Fast build tools and hybrid frameworks
