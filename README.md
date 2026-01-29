@@ -30,21 +30,15 @@ Graduated with a **Bachelor’s Degree in Computer Science** from [IT University
 ### Tools & Platforms
 - **Git, GitHub, GitLab** – Version control and team collaboration  
 - **Notion, Trello , Asana** – Agile project management  
-- **Adobe After Effects, Adobe Suite** – UI/UX motion prototyping and media content
+- **Adobe After Effects, Figma ** – UI/UX motion prototyping and media content
 
 
 
 ## Core Competencies & Values
 
-### Security
-- Understanding of fundamental cryptographic principles including **RSA**, hashing algorithms, and secure storage/authentication practices.
-
 ### Problem Solving
 - Strong analytical mindset with a focus on effective and reactive solutions to technical and business challenges.  
 - Comfortable solving algorithmic problems, optimizing legacy code, and debugging complex systems.
-
-### Reactive Programming
-- Experience with **reactive paradigms** and asynchronous data streams in Java (Project Reactor basics) and frontend/mobile applications.
 
 ### Architecture & Patterns
 - Clean Architecture, SOLID Principles, MVC/MVVM, Modular Codebase Design  
